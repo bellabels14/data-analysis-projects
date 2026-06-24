@@ -147,6 +147,7 @@ This visualization supported further analysis of salary differences by gender, e
   <img src="images/dashboard-diversity.png" alt="Looker Studio dashboard showing diversity indicators in the Brazilian technology market" width="900">
 </p>
 
+[Click here to access the interactive Looker Studio dashboard](https://datastudio.google.com/reporting/dd4e921d-bf47-49ba-80ae-2b55ddb68c0a)
 An interactive dashboard was developed in Looker Studio to consolidate the main findings from the analysis into a clear and accessible visual format.
 
 The dashboard presents an overview of diversity in the Brazilian technology market and allows users to explore the data through different demographic and professional perspectives.
@@ -172,24 +173,6 @@ The purpose of the dashboard was to transform the analysis into a tool that supp
 The dashboard also allows users to filter the information by age group, making it possible to explore how diversity indicators may change across different age ranges.
 
 
-programaria-data-analysis/
-│
-├── README.md
-├── notebooks/
-│   ├── exploratory_data_analysis.ipynb
-│   ├── statistics_analysis.ipynb
-│   └── linear_regression.ipynb
-│
-├── data/
-│   └── dataset.csv
-│
-├── images/
-│   ├── age-boxplot.png
-│   ├── salary-boxplot.png
-│   └── dashboard-preview.png
-│
-└── dashboard/
-    └── diversity-dashboard.pdf
 ```
 
 ---
