@@ -172,11 +172,6 @@ The purpose of the dashboard was to transform the analysis into a tool that supp
 
 The dashboard also allows users to filter the information by age group, making it possible to explore how diversity indicators may change across different age ranges.
 
-
-```
-
----
-
 ## Course
 
 Project developed as part of the **Python for Data Analysis** course by **PrograMaria**.
