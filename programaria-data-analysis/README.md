@@ -144,7 +144,7 @@ This visualization supported further analysis of salary differences by gender, e
 ## Interactive Dashboard
 
 <p align="center">
-  <img src="images/dashboard-preview.png" alt="Looker Studio dashboard showing diversity indicators in the Brazilian technology market" width="900">
+  <img src="images/dashboard-diversity.png" alt="Looker Studio dashboard showing diversity indicators in the Brazilian technology market" width="900">
 </p>
 
 An interactive dashboard was developed in Looker Studio to consolidate the main findings from the analysis into a clear and accessible visual format.
